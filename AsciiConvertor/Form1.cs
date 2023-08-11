@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace AsciiConvertor
 {
-    public partial class Form1 : Form
+    public partial class AsciiCovertor : Form
     {
-        public Form1()
+        public AsciiCovertor()
         {
             InitializeComponent();
+        }
+
+        private void AsciiCovertor_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

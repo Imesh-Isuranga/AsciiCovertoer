@@ -1,0 +1,11 @@
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\bin\Debug\AsciiConvertor.exe.config
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\bin\Debug\AsciiConvertor.exe
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\bin\Debug\AsciiConvertor.pdb
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.csproj.AssemblyReference.cache
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.csproj.SuggestedBindingRedirects.cache
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.AsciiCovertor.resources
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.Properties.Resources.resources
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.csproj.GenerateResource.cache
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.csproj.CoreCompileInputs.cache
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.exe
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.pdb
