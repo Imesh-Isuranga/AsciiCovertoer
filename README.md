@@ -1,5 +1,5 @@
 
-## ASCII CNC Engraving Code Generator
+## ASCII CNC Engraving GCode Generator
 
 Seamlessly merge syntax codes and ASCII text to generate precise unique code sequences. Enjoy real-time syntax visualization, toggle code comments, and save outputs for seamless CNC machining.For this I have used c# language.
 
