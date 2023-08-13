@@ -9,3 +9,7 @@ E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\A
 E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.csproj.CoreCompileInputs.cache
 E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.exe
 E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.pdb
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\bin\Debug\AsciiConvertor.exe.manifest
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\bin\Debug\AsciiConvertor.application
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.exe.manifest
+E:\My New Creation\My Codes\C# Project\AsciiConvertor\AsciiConvertor\obj\Debug\AsciiConvertor.application
