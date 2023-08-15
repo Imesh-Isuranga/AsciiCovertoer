@@ -38,6 +38,7 @@
             this.txtThree = new System.Windows.Forms.RichTextBox();
             this.btnSave = new System.Windows.Forms.Button();
             this.lblOne = new System.Windows.Forms.Label();
+            this.btnClear = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -120,7 +121,7 @@
             // btnSave
             // 
             this.btnSave.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSave.Location = new System.Drawing.Point(108, 708);
+            this.btnSave.Location = new System.Drawing.Point(47, 708);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(180, 33);
             this.btnSave.TabIndex = 8;
@@ -138,11 +139,23 @@
             this.lblOne.TabIndex = 10;
             this.lblOne.Text = "label5";
             // 
+            // btnClear
+            // 
+            this.btnClear.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClear.Location = new System.Drawing.Point(320, 708);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(81, 33);
+            this.btnClear.TabIndex = 11;
+            this.btnClear.Text = "Clear";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
             // AsciiCovertor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(701, 753);
+            this.Controls.Add(this.btnClear);
             this.Controls.Add(this.lblOne);
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.txtThree);
@@ -173,6 +186,7 @@
         private System.Windows.Forms.RichTextBox txtThree;
         private System.Windows.Forms.Button btnSave;
         private System.Windows.Forms.Label lblOne;
+        private System.Windows.Forms.Button btnClear;
     }
 }
 

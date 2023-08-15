@@ -66,7 +66,7 @@ namespace AsciiConvertor
         {
             using (SaveFileDialog saveFileDialog = new SaveFileDialog())
             {
-                    string filePath = "E:\\My New Creation\\final.txt";
+                    string filePath = "final.txt";
                     string textToSave = txtThree.Text;
 
                     File.WriteAllText(filePath, textToSave);
@@ -74,6 +74,13 @@ namespace AsciiConvertor
                     MessageBox.Show("File saved successfully.");
              
             }
+        }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtOne.Clear();
+            txtTwo.Clear();
+            txtThree.Clear();
         }
     }
 }
